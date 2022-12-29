@@ -1,0 +1,15 @@
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/SMSSender.Lib.csproj.AssemblyReference.cache
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/SMSSender.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/SMSSender.Lib.AssemblyInfoInputs.cache
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/SMSSender.Lib.AssemblyInfo.cs
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/SMSSender.Lib.csproj.CoreCompileInputs.cache
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/bin/Debug/net6.0/SMSSender.Lib.pssym
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/bin/Debug/net6.0/SMSSender.Lib.pspdb
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/bin/Debug/net6.0/SMSSender.Lib.deps.json
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/bin/Debug/net6.0/SMSSender.Lib.dll
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/bin/Debug/net6.0/SMSSender.Lib.pdb
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/PostSharp/touch
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/PostSharp/AdditionalBuildDependencies.txt
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/SMSSender.Lib.dll
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/SMSSender.Lib.pdb
+/Users/abdullahcangul/Desktop/projects/SMSSender/SMSSender.Lib/obj/Debug/net6.0/PostSharp/postsharp.app.config
